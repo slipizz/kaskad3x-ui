@@ -1,4 +1,4 @@
-# Обход белых списков -> [bypassbs](https://github.com/slipizz/bypassbs)
+## Обход белых списков -> [bypassbs](https://github.com/slipizz/bypassbs)
 
 # Рабочий каскад в 3x-UI через REALITY
 
